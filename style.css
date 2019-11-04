@@ -3,3 +3,11 @@ nav{
     border: black; 
     border-style: solid;
 }
+main{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
